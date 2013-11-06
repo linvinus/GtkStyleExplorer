@@ -22,3 +22,9 @@ found TWFMainWindow.GtkFrame.GtkFrame.GtkAlignment.GtkViewport.GtkVBox.GtkHBox.G
 ```
 
 [![GtkStyleExplorer 0.1](http://storage2.static.itmages.ru/i/13/1002/s_1380698257_5654751_f96659aa11.png)](http://itmages.ru/image/view/1249611/f96659aa)
+
+misc:
+-----
+https://git.gnome.org/browse/gtk+/tree/demos/gtk-demo/reset.css
+http://bugs.sugarlabs.org/ticket/3936
+http://opendesktop.org/content/show.php?content=144321
